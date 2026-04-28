@@ -1,37 +1,46 @@
 <h1 align="center">Hi 👋, I'm Okikiola</h1>
-<h3 align="center">A passionate Flutter software engineer</h3>
+<h3 align="center">Flutter Software Engineer | Mobile Architect</h3>
 
-
-
-- 🌱 I’m currently learning **Rust and Flutter's advanced architecturing**
-
-- 👨‍💻 All of my projects are available at [https://portfolio-gamma-nine-96.vercel.app/](https://portfolio-gamma-nine-96.vercel.app/)
-
-- 🔭 I’m currently working on [SlideSync](https://github.com/okikday/slidesync)
-
-- 💬 Ask me about **Flutter**
-
-- ⚡ Fun fact **Love music**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+  <a href="https://linkedin.com/in/okikiola-gbeleyi-a47217245" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:okikday@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+---
+
+### 💫 About Me
+- 🔭 **Currently working on:** [SlideSync](https://github.com/okikday/slidesync) — a smart app for organizing and syncing course materials.
+- 🌱 **Learning:** High-performance systems with **Rust** and advanced **Flutter Architecture**.
+- 👨‍💻 **Portfolio:** [Check out my work here](https://portfolio-gamma-nine-96.vercel.app/)
+- 💬 **Ask me about:** Flutter, Riverpod, Isar...basically any Flutter related concepts.
+- ⚡ **Fun fact:** I love music
+
+---
+
+### 🛠 Languages and Tools
 <table border="0">
   <tr>
     <td><a href="https://developer.android.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/></a></td>
     <td><a href="https://dart.dev" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/></a></td>
-    <td><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a></td>
-    <td><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a></td>
     <td><a href="https://flutter.dev" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/></a></td>
-    <td><a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a></td>
+    <td><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a></td>
+    <td><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a></td>
     <td><a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/></a></td>
+    <td><a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a></td>
   </tr>
 </table>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=okikday" alt="okikday" /></a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=okikday&show_icons=true&locale=en&layout=compact" alt="okikday" /></p>
+### 📊 GitHub Analytics
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=okikday&theme=radical&no-frame=true" alt="trophies" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=okikday&" alt="okikday" /></p>
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=okikday&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-readme-streak
