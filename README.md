@@ -37,10 +37,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=okikday&theme=radical&no-frame=true" alt="trophies" />
 </p>
 
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=okikday&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
-    </td>
-    <td align="center" width="50%">
-      <img src="https://github-readme-streak
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=okikday&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
+</p>
