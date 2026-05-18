@@ -31,12 +31,3 @@
 </table>
 
 ---
-
-### 📊 GitHub Analytics
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=okikday&theme=radical&no-frame=true" alt="trophies" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=okikday&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
-</p>
