@@ -12,7 +12,7 @@
 
 ### 💫 About Me
 - 🔭 **Currently working on:** some super stuff
-- 🌱 **Learning:** JavaScript and a lil bit of python
+- 🌱 **Learning:** Swift and a lil bit of python
 - 👨‍💻 **Portfolio:** [::::::::::](https://portfolio-gamma-nine-96.vercel.app/)
 - 💬 **Ask me about:** Flutter, Riverpod, Isar...basically any Flutter related concepts.
 - ⚡ **Fun fact:** I love music
