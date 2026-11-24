@@ -13,7 +13,7 @@
 ### 💫 About Me
 - 🔭 **Currently working on:** some super stuff
 - 🌱 **Learning:** Swift and a lil bit of python
-- 👨‍💻 **Portfolio:** incoming...
+- 👨‍💻 **Portfolio:** updating...
 - 💬 **Ask me about:** Flutter, Riverpod, Isar...basically any Flutter related concepts.
 - ⚡ **Fun fact:** I love music
 
